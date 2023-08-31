@@ -84,7 +84,7 @@ class DetailUserScreen extends StatelessWidget {
                             borderSide:
                             BorderSide(width: 2, color: Colors.black)),
                         border: OutlineInputBorder(),
-                        hintText: "Status",
+                        hintText: "Active/Inactive",
                         labelStyle: TextStyle(
                           color: Colors.black,
                         )),
